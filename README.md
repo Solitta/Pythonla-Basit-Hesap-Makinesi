@@ -11,7 +11,7 @@ print()
 input() 
 int(input())
 --------------------------------------------------------------------------------------------
-Yapılan sitenin ismi = replit.com
+Kullandığım site = replit.com
 
 Soracağınız bir şey olursa discord üzerinden ulaşabilirsiniz.
 Yazılım ile ilgili danışabileceğiniz veya yazılım konusunda yardıma ihtiyacı olanlara yardım edebileceğiniz discord sunucumuz https://discord.gg/WhTUPhdD.
@@ -28,7 +28,7 @@ Print()
 login()
 int(input())
 ---------------------------------------------------------------- ------------------------------------------
-Name of the site made = replit.com
+The site I use = replit.com
 
 If you have something to ask, you can reach it via discord.
 You can benefit from our help service that can benefit from software-related services https://discord.gg/WhTUPhdD.
